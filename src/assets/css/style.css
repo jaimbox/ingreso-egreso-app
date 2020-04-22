@@ -8617,7 +8617,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   align-items: center; }
   .form-inline .form-check {
     width: 100%; }
- 
+
 .btn {
   display: inline-block;
   font-weight: 400;
@@ -9074,7 +9074,7 @@ input[type="button"].btn-block {
   height: 0;
   overflow: hidden;
   transition: height 0.35s ease; }
-  
+
 
 
 .dropup,
@@ -10942,7 +10942,7 @@ button.close {
   transition: transform 0.6s ease;
   backface-visibility: hidden;
   perspective: 1000px; }
-  
+
 .carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {
@@ -13046,7 +13046,7 @@ html {
   flex-grow: 1; }
 
 .container-scroller {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .scroll-container {
@@ -14945,6 +14945,7 @@ ul {
     .auth.theme-one .auto-form-wrapper .form-group .input-group .form-control {
       border: 1px solid #e5e5e5;
       border-right: none;
+      height: 44px;
       border-radius: 6px 0 0 6px; }
       .auth.theme-one .auto-form-wrapper .form-group .input-group .form-control:focus {
         border-right: none;
